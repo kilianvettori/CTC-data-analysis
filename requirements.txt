@@ -1,0 +1,8 @@
+below are all imports listed with their explanation (as given in the jupyternotebook itself)
+
+import os #to open files
+import numpy as np #to get access to np.random.uniform(), np.array(), np.float, np.average, np.sqrt
+import pandas as pd #to process data in dataframes
+import matplotlib.pyplot as plt #for plotting
+from scipy.interpolate import interp1d #for interpolation of the titration data
+from pathlib import Path #to get the paths to the input and output files right
