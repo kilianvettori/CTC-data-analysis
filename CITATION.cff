@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated ChemComm article and this repository."
+title: "CTC-data-analysis"
+authors:
+  - family-names: "Vettori"
+    given-names: "Kilian"
+repository-code: "https://github.com/kilianvettori/CTC-data-analysis"
+license: MIT
