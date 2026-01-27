@@ -1,5 +1,5 @@
 Category	Value
-active material (AM):	LiNi82Co11Mn07
+active material (AM):	LiNi0.82Co0.11Mn0.07O2
 AM info:	single crystalline, vendor: MSE Supplies LLC, Tucson, AZ, USA
 mass of AM [g]:	0.00525
 electrolyte:	LP57 (EC:EMC 3:7 (wt) + 1 M LiPF6) (BASF SE, Ludwigshafen, Germany)
@@ -10,3 +10,4 @@ relaxation time [s]:	7200
 reference potential:	Li+/Li
 contributer name and affiliation:	Kilian Vettori, JLU Giessen
 source:	DOI to include
+
