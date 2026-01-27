@@ -3,7 +3,7 @@ active material (AM):	LiNi82Co11Mn07
 AM info:	single crystalline, vendor: MSE Supplies LLC, Tucson, AZ, USA
 mass of AM [g]:	0.00525
 electrolyte:	LP57 (EC:EMC 3:7 (wt) + 1 M LiPF6) (BASF SE, Ludwigshafen, Germany)
-temperature [°C]:	25
+temperature [Â°C]:	25
 polarization current [mA]:	0.05244
 polarization time [s]:	1200
 relaxation time [s]:	7200
